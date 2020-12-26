@@ -1,0 +1,11 @@
+"Method","Sensitivity","Specificity","Q2","MCC"
+"Aggrescan",35.37,79.26,57.32,0.13
+"AMYLPRED2",39.27,84.48,61.88,0.22
+"FoldAmyloid (contacts)",20.71,86.97,76.17,0.08
+"FoldAmyloid (triple hybrid)",19.21,86.22,75.3,0.06
+"Tango",13.67,95.57,54.62,0.14
+"MetAmyl (high specificity)",39.05,83.14,77.24,0.19
+"MetAmyl (global accuracy)",52.46,70.73,68.29,0.17
+"FishAmyloid",13.73,93.68,82.98,0.1
+"PASTA 2.0 (90% specificity)",30.24,90,80.23,0.22
+"PASTA 2.0 (85% specificity)",40.87,84.95,77.77,0.24

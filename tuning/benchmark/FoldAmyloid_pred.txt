@@ -1,0 +1,4607 @@
+=======================================================================
+RESULTS FOR:
+>K19
+PGGGKVQIVYKPV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19d
+PGGGKVYKPV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Mut1
+PGGGKNAEVYKPV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Mut2
+PGGGKVQIVEKPV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Chym
+QTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIVY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Chym1
+KPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Chym2
+KDRVQSKIGSLDNITHVPGGGN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc4
+QTAPVPMPDLKNVKSKIGSTE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc41
+NLKHQPGGGKVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000011111000000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc42
+KLDFKDRVQSKIGSLDNITHVPGGGN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc43
+QTAPVPMPD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc78
+LKNVKSKIGSTE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc781
+NLKHQPGGGKVQIVYKEVD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000011111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc782
+LSKVTSKCGSLGNIHHKPGGGQVE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc783
+VKSEKLDFKDRVQSKIGSLDNITHVPGGGN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>K19Gluc784
+GKVQIVYK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>PHF8
+VQIVYK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>PHF6
+VDLSKVTSK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>V313-K321
+VTSKCGSLGNIHHKPGGG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>V318-G335
+GQVEVSKE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>V335-E342
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000001111110000000000111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Whole
+VPHQKLVFFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000011111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP1
+VHPQKLVFFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP2
+VHHPKLVFFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP3
+VHHQPLVFFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000011111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP4
+KKPVFFAED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP5
+KKLPFFAED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP6
+KKLVPFAED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP7
+VHHQKLVPFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP8
+KKLVFPAED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP9
+KKLVFFPED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP10
+VHHQEKLVFFAPDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP11
+VHHQEKLVFFAEPVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP12
+VHHQEKLVFFAEDPGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP13
+VHHQEKLVFFAEDVPS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP14
+KKLVFFAED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+001111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP15
+VHHQKLVFFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000011111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>HABP16
+QKLVFFA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB1
+HQKLVFFAE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+001111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB2
+HHQKLVFFAED
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00011111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB3
+VHHQKLVFFAEDV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000111111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB4
+EVHHQKLVFFAEDVG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000001111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB5
+YEVHHQKLVFFAEDVGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000011111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB6
+GYEVHHQKLVFFAEDVGSN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000111111000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB7
+SGYEVHHQKLVFFAEDVGSNK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000001111110000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB8
+DSGYEVHHQKLVFFAEDVGSNKG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000011111100000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB9
+HDSGYEVHHQKLVFFAEDVGSNKGA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000111111000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB10
+EQVTNVGGAVVTGVTAVA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB11
+TVNGVGEVTATAVQGVAV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>NAC1-18
+VTNVGGAVVTGVTAVA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>NAC1-18s
+EQVTNVGGAVVTG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>NAC3-18
+VGGAVVTGV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>NAC1-13
+STAQSLKSVDYEVFGRV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>NAC6-14
+QGVSFRMYTEDEARKI
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0001111100000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>1-17
+GVVGWVKNTSKGTVTGQVQG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>18-33
+PEDKVNSMKSWLSKV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000001111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>34-53
+GSPSSRIDRTNFSNEKT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>54-68
+ISKLEYSNFSVRY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>69-85
+IQRTPKIQVYSRHPAE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>86-98
+NGKSNFLNCYVSG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>A
+FHPSDIEVDLLK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>B
+NGERIEKVEHSDLSFSKD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>C
+DWSFYLLYYTEFT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0111111111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>D
+DWSFYLLYYTEFTPTGKDEYA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111111110000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>E
+PTGKDEYACRVNHVT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>E1
+LSQPKIVKWDRDM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>F
+MQTLSERLKKRRIALKY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>G
+YKMTQTELATKAGVK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>1Cro
+YKQQSIQLIEAGVTKR
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>2Cro
+TKRPRFLYEIAMALNSD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00001111111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3Cro
+AMALNCDPVWLQYGTKRGKA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000001111110000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>4Cro
+VLSEGEWQLVLHVWAKVEA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111111111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>5Cro
+EGEWQLVLHVWAKVEADVAGHGQDILIRLFK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0001111111111000000000001111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>A-Helix
+DVAGHGQDILIRLFKS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000011111110
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB-Domain
+KSHPET
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>B-Helix
+HPETLEKFDRFKHLK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>BC-Turn
+TEAEMKA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>CCD-Domai
+SEDLKKHGVTVLTALGAILK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000011111000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>D-Helix
+KKGHHEAE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>E-Helix
+ELKPLAQSHA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>EF-Turn
+ATKHKIP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>F-helix
+GWEIPEPYVWDESFRVFY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>FG-Turn
+GTDFKYKGKL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>N-terminal
+YEQLDEEHKKIFKGIFDCIRD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>C-terminal
+YEQLDEEHKKIFKGIFDCIRD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>A_helix
+SAPNLATLVKVTTNHFTHEEAMMD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>A_helix
+DAAKYSEV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>AB_loop
+EVVPHKKMHKDFLEKIGGL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>B_helix
+GLSAPVD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>BC_loop
+AKNVDYCKEWLVNHIK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000111111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>C_Helix
+AKNVDYCKEWLVNHIK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000111111100
+
+
+
+=======================================================================
+RESULTS FOR:
+>CD_loop
+LEVLLGSG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+11111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>D_helix
+LEVLLGSGDGSLVFV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111110000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>D_helix
+SGDGSL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-1
+SLVFVPSEFS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-2
+SEFSVPSGEK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-2a
+KIVFKNNA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-3
+GEKIVFKNNAGFPHNVVFDE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-4
+KIVFKNNAGFPH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-5
+KNNAGFPHNV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-6
+PHNVVFDEDDEIP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-6a
+IPAGVDAVKISM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-7
+EIPAGV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-8
+DAVKIS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-9
+MPEEELL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-10
+MPEEELLNAPGETYVVTL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-10a
+ELLNAPGETY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-10b
+NAPGETY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-11
+GETYVVTL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-12
+ETYVVT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-13
+VTLDTKGTY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-13a
+GTYSFYT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-13b
+TYSFYC
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-14
+YTSPHQGAGMV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-14a
+MVGKVTVN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-15
+GTVSFVTSPHQGAGMVGKVTVN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-16
+RPDFSLEPPYTGPSK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-16a
+LSQTFVYGGSRAKRNN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0011111000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-17
+PSKARIIRY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-18
+KRNNFKSAEDS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Pc-19
+ARIIRYFYNAKAG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P1-15
+FKSAEDSMRTSGGA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P29-44
+NAKAGLSQT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P13-21
+MKVIFLKDVKG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+11111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P41-51
+KGKKGEIKNVAD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P16-28
+GYANNFLFKQG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00011111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P45-58
+LAIEATPA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P24-32
+TPANLKALEAQKQKEQR
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Beta_1
+DQKEAALVDMVNDGVEDLRCKYATLIYT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Beta_2
+YEAGKEKYVKELPEHLKPFETLLSQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_1
+QISFADYNLLDLLRIHQVLN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+01111111111111111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Beta_3
+PLLSAYVARLSA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000111111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_2
+PKIKAFLA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_4
+AYVKKLDSGTGKELVLAL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_5
+YDYQEKSPREVTMKKGD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_6
+DILTLLNSTNKDWWKVEVND
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+11111110000111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_7
+GGKDWWKVGG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Alpha_8
+DWWKVEVNDRQGFVPA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111100000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_2
+DILTLLNSTNKDWWKVEVNDRQGFVPA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111100001111100000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_4
+DILTLLNSTNKDWWKVEVNDRQGFVPA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111100001111100000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_8
+VPSNEEQIKNLLQLEAQEHLQY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_C
+VPSNEEQIKKLLELEAKKHLQY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_6
+FVNVQAVKVFLESQGIAY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000011111000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_68
+FVNVEAVKAFLEAHGIAY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000011111000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>M_681
+AVGKSNLLSRYARNEFSA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>H1_Wt
+RFRAVTSAYYRGAVG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000111111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>H1_Mt
+TRRTTFESVGRWLDELKIHSD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000111110000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>H2_WT
+AVSVEEGKALAEEEGLF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>H2_Mt
+STNVKTAFEMVILDIYNNV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000111111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Ara1
+DHPAVMEGTKTILETDSNLS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Ara2
+EPSEQFIKQHDFSSY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Ara3
+VNGMELSKQILQENPH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Ara4
+EVEDYFEEAIRAGLH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Ara5
+TESKEKITQYIYHVLNGEIL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000001111111000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ComA1
+DFSTMRRIVRNLLKELGYN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111110000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ComA2
+EDGVDALNKLQAGGY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ComA3
+MDGLELLKTIRADSAY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ComA4
+AKKENIIAAAQAGASGY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ComA5
+PFTAATLEEKLNKIFEKLGMY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Che_Y1
+GTGNTEKMAELIAKGIIESGKDY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Che_Y2
+EESEFEPFIEEISTKISY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Che_Y3
+GDGKWMRDFEQRMNGYGSV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Che_Y4
+EPDEAEQDSIEFGKKIANIY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>Che_Y5
+GVGKSALTIQLIQNHFVY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000111111111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>FXN1
+EYSAMRDQYMRTGEG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000111110000
+
+
+
+=======================================================================
+RESULTS FOR:
+>FXN3
+INNTKSFEDIHQYREQIKRVKDS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>FXN4
+ARTVESRQAQDLARSYGIP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>FXN5
+RQGVEDAFYTLVREIRQHK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000001111111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P21A
+VTIKANLIFANGFTQTAEFKG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000011111110000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P21B
+KGTFEKATSEAYAYADTLKKDNGEY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P21C
+GEYTVDVADKGYTLNIKFAGD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000011111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P21D
+TYKLINGKTLKGETTTEA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>P21E
+GDAATAEKVFKQYANDNGVD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+00000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>PL_B1_95-114_pH_4.1
+GEWTYDDATKTFTVTE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>PL_B1_114-138_pH_2.4
+QGGGTHSQWN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>PL_B1_136-155D_pH_6.1
+HSQWNKPSKP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ProteinG2-19
+KPSKPKTNMK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ProteinG21-40
+KTNMKHMAGA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>ProteinG41-56
+HMAGAAAAGA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>1-10
+AAAGAVVGGL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>6-15
+VVGGLGGYML
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>11-20
+GGYMLGSAMS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>16-25
+GSAMSRPIIH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>21-30
+FGSDYEDRYY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>26-35
+EDRYYRENMH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0011111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>31-40
+RENMHRYPNQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>36-45
+RYPNQVYYRP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>41-50
+VYYRPMDEYS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>51-60
+MDEYSNQNNF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>56-65
+NQNNFVHDCV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0001111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>61-70
+VHDCVNITIK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000111110
+
+
+
+=======================================================================
+RESULTS FOR:
+>66-75
+NITIKQHTVT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>71-80
+QHTVTTTTKG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>76-85
+TTTKGENFTE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>81-90
+ENFTETDVKM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>86-95
+TDVKMMERVV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>91-100
+MERVVEQMCI
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>96-105
+EQMCITQYER
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0011111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>101-110
+TQYERESQAY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>106-115
+ESQAYYQRGS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>111-120
+YQRGSSMVLF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>116-125
+SMVLFSSPPV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>121-130
+SSPPVILLIS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>126-135
+ILLISFLIFL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>131-140
+FLIFLIVG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+11111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>136-145
+RCELARTLKR
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>141-150
+RTLKRLGMDG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>146-155
+LGMDGYRGIS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>151-160
+YRGISLANWM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>156-163
+LANWMCLAKW
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0111111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>5-14
+CLAKWESGYN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>10-19
+ESGYNTRATN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>15-24
+TRATNYNAGD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>20-29
+YNAGDRSTDY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>25-34
+RSTDYGIFQI
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>30-39
+GIFQINSRYW
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>35-44
+NSRYWCNDGK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>40-49
+CNDGKTPGAV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>45-54
+TPGAVNACHL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>50-59
+NACHLSCSAL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>55-64
+LQDNIADAVA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>60-69
+ADAVACAKRV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>65-74
+CAKRVVRDPQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>70-79
+VRDPQGIRAW
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>75-84
+GIRAWVAWRN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0011111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>85-94
+VAWRNRCQNR
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>90-99
+RCQNRDVRQY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>95-104
+DVRQYVQGCG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>100-109
+RTPKIQVYSR
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>105-114
+QVYSRHPAEN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>110-119
+HPAENGKSNF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>115-124
+LNCYVSGFHP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>120-129
+SGFHPSDIEV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>4-13
+SDIEVDLLKN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>9-18
+DLLKNGERIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>14-23
+GERIEKVEHS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>24-33
+KVEHSDLSFS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>29-38
+DLSFSKDWSF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>34-43
+KDWSFYLLYY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0011111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>39-48
+YLLYYTEFTP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+1111111000
+
+
+
+=======================================================================
+RESULTS FOR:
+>44-53
+TEFTPTEKDE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>49-58
+TEKDEYACRV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>54-63
+YACRVNHVTL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>59-68
+NHVTLSQPKI
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+0000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>64-73
+YTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>69-78
+WTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>74-83
+VTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>79-88
+TTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>84-93
+SYVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SVVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVYIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVWIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVTIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVNIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVLIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIYE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIW
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIII
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIID
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIFE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVFIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVEIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STSIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STQIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STNIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STLIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STFIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STEIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SSVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SQVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SNVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SMVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SLVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SIVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SGVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SFVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SEVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SDVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SAVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+QTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+NTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+MTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+ITVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+GTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+ETVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+DTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+ATVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+NHVTLS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LLYYTE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111110
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KIVKWD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KDWSFY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FYLLYY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+VEALYL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LYQLEN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LVEALY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+NFGAIL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FLVHSS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+VQIVYK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SWVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STYIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVVIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVSIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVQIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVPIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVMIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIWE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIVE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVITE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVISE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIQE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIPE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVINE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIME
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVILE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIIP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIGE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIEE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIDE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVIAE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVGIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVDIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STVAIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STTIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STPIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STMIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STIIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STGIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STDIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+STAIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SPVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+PTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KTVLIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KTVIYE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KTVIVE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KTVIIT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KTVIIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+YYTEFT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+YVSGFH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+WSFYLL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+VYSRHP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+VTLSQP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+VKWDRD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+TEFTPT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SRHPAE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SGFHPS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SDLSFS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+RVNHVT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+RTPKIQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+QPKIVK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+PTEKDE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+PSDIEV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+PKIQVY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+NGKSNF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+NGERIE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LSQPKI
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LSFSKD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LKNGER
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KWDRDM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KVEHSD
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KSNFLN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+IQVYSR
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+IQRTPK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+IEKVEH
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+HPAENG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FTPTEK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FSKDWS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FHPSDI
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+EVDLLK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+ERIEKV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+EKDEYA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+EHSDLS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+DLLKNG
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+DIEVDL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+AENGKS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+YQLENY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SLYQLE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111110
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+SHLVEA
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+RGFFYT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+HLVEAL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111110
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+GSHLVE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+GFFYTP
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111110
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+GERGFF
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FYTPKT
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FVNQHL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FFYTPK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+ERGFFY
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+EALYLV
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+NLGPVL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+LIAGFN
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+TMMKFQLLKSAEEKLFAS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111100000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+MLSLKESAKMFFATKELQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000001111100000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KQFTLEMAFLSKALSEMK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+001111111110000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+KLAFMLKQAELSSEKTFM
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>3D
+FAKFASEKKLESMTLMLQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP1
+MLTFAEFKSMELKSQLAK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP2
+ASMFEAQLSKEKKMFTLL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+011111000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP3
+ELLAKSEQAKSMLFTFMK
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000001111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP4
+TKFSSFALLAQKEMLKME
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000111111100000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP5
+ETLKMSMFLEAQFKKSAL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000011111110000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP6
+ASSQKKMKEMLAFFTLEL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000011111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP7
+MFSKMAKSLFLLAEKTQE
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000011111000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP8
+KLELKAASQMEFSFTMKL
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000001111111
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP9
+KELKQELFFKASATLMMS
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000011111
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP10
+SAFMEKMLLLEKQFKAST
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+111111111100000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP11
+MATLEKLMKAFESLKSFQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
+
+
+=======================================================================
+RESULTS FOR:
+>SP12
+MATLEALMKAFESLKSFQ
+
+FoldAmyloid:
+Options: Scale = Expected number of contacts 8A, Averaging frame = 5, Threshold = 21.4
+000000000000000000
+
